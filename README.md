@@ -1,48 +1,88 @@
 # 👋 Olá, eu sou o Gutierry!
 
-🎓 Sou estudante do curso técnico no SENAC
-💻 Apaixonado por tecnologia e desenvolvimento
-🚀 Em constante aprendizado e evolução
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Estudante+de+Tecnologia;Futuro+Desenvolvedor;Apaixonado+por+Código;Sempre+Evoluindo+🚀" />
+</p>
 
 ---
 
 ## 🧠 Sobre mim
 
-* 📚 Atualmente estudando programação e desenvolvimento de sistemas
-* 🔎 Buscando aprender cada vez mais sobre o mundo da tecnologia
-* 🛠️ Explorando linguagens, ferramentas e boas práticas de desenvolvimento
+```yaml
+nome: Gutierry
+formacao: Técnico no SENAC
+foco: Desenvolvimento de Sistemas
+status: Aprendendo e evoluindo 🚀
+```
+
+* 📚 Atualmente estudando programação
+* 🔎 Explorando o mundo da tecnologia
+* 🛠️ Aprendendo boas práticas e ferramentas
 
 ---
 
 ## 🚀 Tecnologias que estou aprendendo
 
-* 💻 Lógica de programação
-* 🌐 HTML, CSS e JavaScript
-* 🐍 Python (iniciante)
-* 🛠️ Git e GitHub
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github" />
+</p>
+
+```txt
+💻 Lógica de programação
+🌐 HTML, CSS e JavaScript
+🐍 Python (iniciante)
+🛠️ Git e GitHub
+```
 
 ---
 
 ## 📈 Objetivos
 
-* Melhorar minhas habilidades como desenvolvedor
-* Criar projetos práticos e úteis
-* Conseguir minha primeira oportunidade na área de tecnologia
+```diff
++ Evoluir como desenvolvedor
++ Criar projetos práticos
++ Conquistar minha primeira vaga na área 🚀
+```
 
 ---
 
 ## 📂 Meus projetos
 
-📌 Em breve estarei adicionando projetos aqui no meu GitHub!
+<p align="center">
+  🚧 Em construção... em breve projetos incríveis por aqui!
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guty459861&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guty459861&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
 ## 📫 Contato
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/gutierry-gabriel-b2025a3b7/)
-* 📧 [gutierrygabriel12.0@gmail.com](mailto:gutierrygabriel12.0@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/gutierry-gabriel-b2025a3b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+📧 [gutierrygabriel12.0@gmail.com](mailto:gutierrygabriel12.0@gmail.com)
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+## 🧠 Frase
 
+```txt
+"Transformando ideias em código todos os dias 💻🚀"
+```
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007CF0&height=120&section=footer"/>
+</p>
