@@ -1,0 +1,9 @@
+{
+  "name": "api-mini-chamados",
+  "version": "1.0.0",
+  "description": "API de treino para testes de carga (Aula 16)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

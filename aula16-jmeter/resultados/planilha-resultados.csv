@@ -1,0 +1,13 @@
+﻿Cenário;Usuários simultâneos;Rampa (s);Repetições;Requisição;Amostras;Média (ms);90% (ms);Máx (ms);Erro %;Vazão (req/s);Atende RNF-01? (Sim/Não)
+C1 · linha de base;1;1;10;POST /api/login;;;;;;;
+C1 · linha de base;1;1;10;GET /api/chamados;;;;;;;
+C1 · linha de base;1;1;10;GET /api/relatorio;;;;;;;
+C1 · linha de base;1;1;10;POST /api/chamados;;;;;;;
+C2 · carga normal;10;5;10;POST /api/login;;;;;;;
+C2 · carga normal;10;5;10;GET /api/chamados;;;;;;;
+C2 · carga normal;10;5;10;GET /api/relatorio;;;;;;;
+C2 · carga normal;10;5;10;POST /api/chamados;;;;;;;
+C3 · carga de pico;20;5;10;POST /api/login;;;;;;;
+C3 · carga de pico;20;5;10;GET /api/chamados;;;;;;;
+C3 · carga de pico;20;5;10;GET /api/relatorio;;;;;;;
+C3 · carga de pico;20;5;10;POST /api/chamados;;;;;;;
